@@ -12,7 +12,7 @@
 
 ## Οδηγίες Χρήσης
 1. Κατεβάστε το υλικό από το GitHub.
-2. Μάθετε την αναλυτική σύνταξη του μαθήματος 33 όπως εμφανίζεται σταδιακά στο google slides.
+2. Μάθετε την αναλυτική σύνταξη του μαθήματος 33 όπως εμφανίζεται σταδιακά κάνοντας κλικ κάθε φορά με το ποντίκι.
 3. Χρησιμοποιήστε την άσκηση για εξάσκηση.
 4. Για να δείτε το έργο πατήστε ((https://docs.google.com/presentation/d/e/2PACX-1vTMcAW3J7pdr_-esKUjyfzey_V1iLJtQVVSS__Bna_lutZuBTs6LsoKXIV4il7N_PhAtAOEgEDaGRV8/pub?start=false&loop=false&delayms=3000))
 
